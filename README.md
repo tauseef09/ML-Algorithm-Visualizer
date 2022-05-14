@@ -1,10 +1,21 @@
 <div align="center">
     <h1>ML Algorithm Visualizer</h1>
+<!-- <img src="https://img.shields.io/badge/build-passing-brightgreen?style=flat-square">
+<img src="https://img.shields.io/badge/status-complete-brightgreen?style=flat-square">
+<img src="https://img.shields.io/badge/licence-MIT-orange?style=flat-square">
+<img src="https://img.shields.io/badge/course-CSE4622-blue?style=flat-square">
+<img src="https://img.shields.io/badge/IDE-jupyter%20notebook-orange">
+<img src="https://img.shields.io/badge/language-python-blue?style=flat-square"> -->
 
-    <img src="https://img.shields.io/badge/build-passing-brightgreen?style=flat-square"> <img src="https://img.shields.io/badge/status-complete-brightgreen?style=flat-square"> <img src="https://img.shields.io/badge/licence-MIT-orange?style=flat-square"> <img src="https://img.shields.io/badge/course-CSE4622-blue?style=flat-square"> <img src="https://img.shields.io/badge/IDE-jupyter%20notebook-orange"> <img src="https://img.shields.io/badge/language-python-blue?style=flat-square">
-
+![build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square) &nbsp;
+![status](https://img.shields.io/badge/status-complete-brightgreen?style=flat-square) &nbsp;
+![licence](https://img.shields.io/badge/licence-MIT-orange?style=flat-square) &nbsp;
+![course](https://img.shields.io/badge/course-CSE4622-blue?style=flat-square) &nbsp;
+![IDE](https://img.shields.io/badge/IDE-jupyter%20notebook-orange) &nbsp;
+![language](https://img.shields.io/badge/language-python-blue?style=flat-square) &nbsp;
 </div>
-Humans are visual learners. The human brain is not well-equipped to process a large corpus of data, but are rather good at identifying changes and patterns visually. If you’re given a large paragraph of text describing a scenario and a picture of that scenario for the same amount of time, then you would, obviously, retain more information from the visual object i.e., the picture. We believe, the learning system in engineering should also be fundamentally structured around visualizing the problem domain first, and then, if necessary, be supplemented by texts.
+
+Humans are visual learners. The human brain is not well-equipped to process a large corpus of data, but are rather good at identifying changes and patterns visually. If you’re given a large paragraph of text describing a scenario and a picture of that scenario for the same amount of time, then you would, obviously, retain more information from the visual object i.e. the picture. We believe, the learning system in engineering should also be fundamentally structured around visualizing the problem domain first, and then, if necessary, be supplemented by texts.
 
   
 
