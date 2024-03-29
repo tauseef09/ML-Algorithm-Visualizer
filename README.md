@@ -101,6 +101,6 @@ Open `Visualizer.ipynb` and run all cells.
 
 - <a  href="https://github.com/Aplycaebous"> Farhan Ishmam</a>
 
-- <a  href="#"> Muftiqur Rahman Agni</a>
+- <a  href="https://github.com/Muftiqur1111"> Muftiqur Rahman</a>
 
 - <a  href="https://github.com/ishmamt"> Ishmam Tashdeed</a>
