@@ -15,11 +15,9 @@
 ![language](https://img.shields.io/badge/language-python-blue?style=flat-square) &nbsp;
 </div>
 
-Humans are visual learners. The human brain is not well-equipped to process a large corpus of data, but are rather good at identifying changes and patterns visually. If you’re given a large paragraph of text describing a scenario and a picture of that scenario for the same amount of time, then you would, obviously, retain more information from the visual object i.e. the picture. We believe, the learning system in engineering should also be fundamentally structured around visualizing the problem domain first, and then, if necessary, be supplemented by texts.
+Humans are visual learners. The human brain is not well-equipped to process a large corpus of data but is rather good at identifying changes and patterns visually. If you’re given a large paragraph of text describing a scenario and a picture of that scenario for the same amount of time, then you would retain more information from the visual object i.e. the picture. We believe the learning system in engineering should also be fundamentally structured around visualizing the problem domain first, and then, if necessary, be supplemented by texts.
 
-  
-
-Emphasizing on the need for visualization, we envision to develop a software that would visualize learning algorithms specified by the users and serve as a learning aid to anyone interested in Machine Learning. The algorithms that are visualized:
+Emphasizing the need for visualization, we envision developing software that would visualize learning algorithms specified by the users and serve as a learning aid to anyone interested in Machine Learning. The algorithms that are visualized:
 
 >- Linear Regression
 >
@@ -29,13 +27,13 @@ Emphasizing on the need for visualization, we envision to develop a software tha
 >
 >- Linear Support Vector Machine
 >
->- Non Linear Support Vector Machine
+>- Non-Linear Support Vector Machine
 >
 >- K-means
 >
 >- Naive Bayes
 >
->- Decison Tree
+>- Decision Tree
 >
 >- Principal Component Analysis
 
@@ -50,35 +48,25 @@ Emphasizing on the need for visualization, we envision to develop a software tha
 **Using Anaconda**
 
 ```
-
 conda create -n ENV_NAME python=3.7
-
 ```
 
 Where `ENV_NAME` is the name of the environment. After creating the environment, activate it using:
 
 ```
-
 conda activate ENV_NAME
-
 ```
 
 **Using venv**
 
 ```
-
-//windows
-
 python3 -m venv ENV_NAME
-
 ```
 
 Where `ENV_NAME` is the name of the environment. After creating the environment, activate it using:
 
 ```
-
 source ENV_NAME/bin/activate
-
 ```
 
 ### Installing requirements
@@ -86,9 +74,7 @@ source ENV_NAME/bin/activate
 Install all the requirements from `requirements.txt` using:
 
 ```
-
 pip install -r requirements.txt
-
 ```
 
 ### Running the program
@@ -99,7 +85,7 @@ Open `Visualizer.ipynb` and run all cells.
 
 - <a  href="https://github.com/tauseef09"> Tauseef Tajwar</a>
 
-- <a  href="https://github.com/Aplycaebous"> Farhan Ishmam</a>
+- <a  href="https://github.com/farhanishmam"> Farhan Ishmam</a>
 
 - <a  href="https://github.com/Muftiqur1111"> Muftiqur Rahman</a>
 
